@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Ansh Verma
+Sudent Email:  averma11@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+I learned how to create a pipleline to take geogrpahic data and make an interactive dashboard using streamlit. I knew i had to specify all of the coordinates in your data in order for it to map properly. I have to pay close attention when merging my files to make sure I'm not overwriting anything as well. 
